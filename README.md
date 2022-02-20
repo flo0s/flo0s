@@ -1,7 +1,6 @@
 # Flo0s
 French developer :
-- Minecraft (spigot)
 - Java
-- Learning python
-
-#baguette
+- Web
+- python (not a lot)
+- Minecraft (spigot)
