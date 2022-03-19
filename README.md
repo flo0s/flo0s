@@ -2,5 +2,5 @@
 French developer :
 - Java
 - Web
-- python (not a lot)
+- python
 - Minecraft (spigot)
